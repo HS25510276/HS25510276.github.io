@@ -87,6 +87,10 @@ Certificate in Level 8 Spoken English from Wendy Whatmore Academy, enhancing my 
 - 📧 Email: [hs25510276@my.sliit.lk](mailto:hs25510276@my.sliit.lk)  
 
 ---
-
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 © 2025 Thyagi Parindya | Biotechnology Portfolio
+
+
 
